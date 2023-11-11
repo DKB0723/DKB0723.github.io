@@ -1,0 +1,6 @@
+后端生成一个token发送到session，同时输出到表单里，表单和session里进行对比，token值会随着页面的刷新而更新
+
+攻击前token就在表单里面了
+
+name为token
+token 的 type为hiden
